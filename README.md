@@ -22,7 +22,7 @@ Technologies Used
 4. Open in your web browser: index.html
 
 
-## Here is how it appears ![image](https://github.com/user-attachments/assets/34c8a682-852c-4cd9-bb92-6eca7f1f9045)
+## Here is how it appears
 
 
 ![Screenshot_2024-08-20-19-12-05-64_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/e4d499c6-5e95-42df-a9b2-dda927188a63)
