@@ -1,5 +1,4 @@
-
-# Responsive Animation Fitness Landing Pages Website
+# <p align="center">  Responsive Animation Fitness Landing Pages Website🚀</p>
 
 A modern, responsive, and animated fitness landing page website, designed to showcase fitness-related services. Built with HTML, CSS, JavaScript, and JavaScript animations.
 
@@ -15,7 +14,7 @@ Technologies Used
 
 
 
-Getting Started
+##🚀Getting Started
 
 1. Clone the repository
 2. Install Visual Studio or any other Editior
@@ -39,7 +38,7 @@ Getting Started
 
 
 
-## Usage
+##🚀 Usage
 
 - Use as a starting point for your   fitness-related business or service
 - Customize and extend the code to fit your needs
