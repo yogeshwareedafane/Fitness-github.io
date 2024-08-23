@@ -38,7 +38,7 @@ Here is how it appears
 
 
 
-##Usage
+🚀##Usage
 
 - Use as a starting point for your   fitness-related business or service
 - Customize and extend the code to fit your needs
