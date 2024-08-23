@@ -4,7 +4,7 @@ A modern, responsive, and animated fitness landing page website, designed to sho
 
 Technologies Used
 
-![Static Badge](https://img.shields.io/badge/HTML5%20-orange?style=for-the-badge&logo=HTML5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5%20-orange?style=for-the-badge&logo=HTML5&labelColor=black) 
 
 ![Static Badge](https://img.shields.io/badge/CSS3%20-blue?style=for-the-badge&logo=CSS3&labelColor=black)
 
