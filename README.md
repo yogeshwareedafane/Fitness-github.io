@@ -1,4 +1,4 @@
-# <p align="center">  Responsive Animation Fitness Landing Pages Website🚀</p>
+# <p align="center"> 🚀 Responsive Animation Fitness Landing Pages Website🚀</p>
 
 A modern, responsive, and animated fitness landing page website, designed to showcase fitness-related services. Built with HTML, CSS, JavaScript, and JavaScript animations.
 
