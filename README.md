@@ -22,7 +22,7 @@ Technologies Used
 4. Open in your web browser: index.html
 
 
-## Here is how it appears
+## Project Screenshots 📸
 
 
 ![Screenshot_2024-08-20-19-12-05-64_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/e4d499c6-5e95-42df-a9b2-dda927188a63)
@@ -31,7 +31,7 @@ Technologies Used
 
 
 
-## Features
+## 🌟Features
  - Responsive Design: Adapts to various screen sizes and devices (desktop, tablet, mobile)
 - Animations: Engaging visual effects and motion graphics to enhance user experience
 - Fitness Focus: Tailored for fitness-related businesses or services
@@ -47,18 +47,18 @@ Technologies Used
 
 
 
-## Acknowledgements
+## Acknowledgements🙏
 
 - Thanks to Unsplash for providing high-quality images
 - Thanks to Font Awesome for icons
 - Thanks to Bootstrap for responsive design inspiration
 
-## Authors
+## Authors🖋️
 
 - [Yogeshwaree Dafane](github.com/yogeshwareedafane)
 
 
-## License
+## License 📜
 ![Static Badge](https://img.shields.io/badge/MIT-Lincese-red)
 
 
