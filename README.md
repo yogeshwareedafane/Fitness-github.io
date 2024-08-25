@@ -2,7 +2,7 @@
 
 A modern, responsive, and animated fitness landing page website, designed to showcase fitness-related services. Built with HTML, CSS, JavaScript, and JavaScript animations.
 
-Technologies Used
+# Technologies Used💻
 
 ![Static Badge](https://img.shields.io/badge/HTML5%20-orange?style=for-the-badge&logo=HTML5&labelColor=black) 
 
