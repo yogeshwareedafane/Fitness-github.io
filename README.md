@@ -9,8 +9,9 @@ A modern, responsive, and animated fitness landing page website, designed to sho
 ![Static Badge](https://img.shields.io/badge/CSS3%20-blue?style=for-the-badge&logo=CSS3&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black)
- 
-![Static Badge](https://img.shields.io/badge/BOOTSTRAP-blue?style=for-the-badge&logo=BOOTSTRAP&labelColor=black)
+
+ ![Static Badge](https://img.shields.io/badge/bootstrap-rgb(86%2C%2061%2C%20124)?style=for-the-badge&logo=bootstrap&labelColor=black)
+
 
 
 
