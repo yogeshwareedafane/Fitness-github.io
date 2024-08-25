@@ -60,7 +60,8 @@ A modern, responsive, and animated fitness landing page website, designed to sho
 
 
 ## License 📜
-![Static Badge](https://img.shields.io/badge/MIT-Lincese-red)
+![Static Badge](https://img.shields.io/badge/MIT-License-%20red?style=for-the-badge&logo=MIT&labelColor=black)
+
 
 
 
