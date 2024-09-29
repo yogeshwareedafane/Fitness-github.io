@@ -50,7 +50,7 @@
 
 ## Authors🖋️
 
-- [Yogeshwaree Dafane](github.com/yogeshwareedafane)
+ ![Static Badge](https://img.shields.io/badge/Yogeshwaree_Dafane-darkblue)
 
 
 ## License 📜
